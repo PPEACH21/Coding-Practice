@@ -10,6 +10,5 @@ int main(){
         cin >> d;
         sum+=d;
     }
-
     printf("%.12lf",sum/(double)n);
 }
